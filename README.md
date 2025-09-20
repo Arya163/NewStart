@@ -1,20 +1,21 @@
-# NewStartCommit 1 line
-Commit 2 line
-Commit 3 line
-Commit 4 line
-Commit 5 line
-Commit 6 line
-Commit 7 line
-Commit 8 line
-Commit 9 line
-Commit 10 line
-Commit 11 line
-Commit 12 line
-Commit 13 line
-Commit 14 line
-Commit 15 line
-Commit 16 line
-Commit 17 line
-Commit 18 line
-Commit 19 line
-Commit 20 line
+# NewStart
+Commit 1  DevOps Fundamentals  
+Commit 2  Linux Basics  
+Commit 3  Bash Scripting  
+Commit 4  Python for Automation  
+Commit 5  Git & Version Control  
+Commit 6  GitHub/GitLab Workflows  
+Commit 7  Networking Basics  
+Commit 8  System Administration  
+Commit 9  Package Management (apt, yum, etc.)  
+Commit 10 Docker Fundamentals  
+Commit 11 Docker Compose & Images  
+Commit 12 Kubernetes Basics  
+Commit 13 CI/CD Pipelines (Jenkins/GitHub Actions)  
+Commit 14 Infrastructure as Code (Terraform)  
+Commit 15 Configuration Management (Ansible)  
+Commit 16 Cloud Platforms (AWS/Azure/GCP)  
+Commit 17 Monitoring & Logging (Prometheus, Grafana, ELK)  
+Commit 18 Security & DevSecOps Basics  
+Commit 19 Site Reliability Engineering (SRE) Concepts  
+Commit 20 Final Project / Capstone  
