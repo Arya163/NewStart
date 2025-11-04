@@ -19,3 +19,4 @@ Commit 17 Monitoring & Logging (Prometheus, Grafana, ELK)
 Commit 18 Security & DevSecOps Basics  
 Commit 19 Site Reliability Engineering (SRE) Concepts  
 Commit 20 Final Project / Capstone  
+Commit 21: Layer 1 Blockchain Architecture & Design Principles
