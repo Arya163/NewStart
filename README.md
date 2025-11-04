@@ -20,3 +20,4 @@ Commit 18 Security & DevSecOps Basics
 Commit 19 Site Reliability Engineering (SRE) Concepts  
 Commit 20 Final Project / Capstone  
 Commit 21: Layer 1 Blockchain Architecture & Design Principles
+Commit 22: Consensus Algorithm Implementation (PoW, PoS, DPoS, BFT)
